@@ -1,7 +1,7 @@
 # Classes Abstratas 
 Demostra o uso de classes abstratas e suas implementações em um cenario onde esta implementado 2 tipos de animais domesticos e selvagem onde ambos herdam da classe abstrata Animal
 ## Exemplos de codigo
--Exemplo 1
+1- Exemplo 1
 ###Funciona
 ...
 AnimalDomestico animal = new Gato("Anakin")
