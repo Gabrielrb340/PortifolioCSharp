@@ -8,7 +8,7 @@ Demostra o uso de classes abstratas e suas implementações em um cenario onde e
 AnimalDomestico animal = new Gato("Anakin");
 AnimalDomestico animal = new Cachorro("Kako");
 ```
-### Não Funciona
+### Não funciona
 ```C#
 AnimalDomestico animal = new Lobo("Kako");// lobo não herda da classe AnimalDomestico sim da classe AnimalSelvagem
 ```
@@ -19,6 +19,18 @@ Usando a abstração mais generica possivel , porem desta forma perco acesso aos
 Animal animal = new Gato("Anakin");
 Animal animal = new Cachorro("Kako");
 ```
-### Também Funciona
+### Também funciona
 ```C#
 Animal animal = new Lobo("Kako");//Diferente do exemplo 1 tanto o lobo, cachorro ou gato são animais 
+``` 
+# Interfaces
+Utilizando metodos implementados pela classe via interface
+## Exemplo 1
+```C#
+            IComportamentoPadrao animalComportamentoPadrao = new Cachorro("Nina");
+            animalComportamentoPadrao.Brincar(); // Cachorros sabem brincar
+            //Mudando a instancia de animalComportamentoPadrao para ser um gato inicialmente erá um cachorro
+            animalComportamentoPadrao = new Gato("Apolo");
+            animalComportamentoPadrao.Brincar();
+```
+
