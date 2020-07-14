@@ -5,11 +5,10 @@ Demostra o uso de classes abstratas e suas implementações em um cenario onde e
 
 ### Funciona
 ```C#
-AnimalDomestico animal = new Gato("Anakin")
-AnimalDomestico animal = new Cachorro("Kako")
-
+AnimalDomestico animal = new Gato("Anakin");
+AnimalDomestico animal = new Cachorro("Kako");
 ```
 ### Não Funciona
-...
+```C#
 AnimalDomestico animal = new Lobo("Kako")
-...
+```
