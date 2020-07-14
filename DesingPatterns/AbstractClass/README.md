@@ -17,7 +17,7 @@ Usando a abstração mais generica possivel , porem desta forma perco acesso aos
 ### Funciona
 ```C#
 Animal animal = new Gato("Anakin");
-AnimalDomestico animal = new Cachorro("Kako");
+Animal animal = new Cachorro("Kako");
 ```
 ### Também Funciona
 ```C#
