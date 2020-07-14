@@ -21,4 +21,4 @@ AnimalDomestico animal = new Cachorro("Kako");
 ```
 ### Também Funciona
 ```C#
-Animal animal = new Lobo("Kako");//Diferente do exemplo tanto o lobo, cachorro ou gato são animais 
+Animal animal = new Lobo("Kako");//Diferente do exemplo 1 tanto o lobo, cachorro ou gato são animais 
