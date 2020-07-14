@@ -1,5 +1,5 @@
 # Classes Abstratas e Interfaces
-Demostra o uso de classes abstratas e suas implementações em um cenario onde esta implementado 2 tipos de animais ```C# AnimalDomestico ``` e ```C# AnimalSelvagem ``` onde ambos herdam da classe abstrata Animal, também demostra o uso de interfaces e segregação de interfaces 
+Demostra o uso de classes abstratas e suas implementações em um cenario onde esta implementado 2 tipos de animais ```AnimalDomestico ``` e ``` AnimalSelvagem ``` onde ambos herdam da classe abstrata ```Animal ```, também demostra o uso de interfaces e segregação de interfaces 
 # Exemplos de codigo
 ## Exemplo 1
 
