@@ -10,7 +10,7 @@ AnimalDomestico animal = new Cachorro("Kako");
 ```
 ### Não Funciona
 ```C#
-AnimalDomestico animal = new Lobo("Kako"); lobo não herda da classe AnimalDomestico sim da classe AnimalSelvagem
+AnimalDomestico animal = new Lobo("Kako");// lobo não herda da classe AnimalDomestico sim da classe AnimalSelvagem
 ```
 ## Exemplo 2
 Usando a abstração mais generica possivel , porem desta forma perco acesso aos metodos mais especificos
@@ -21,4 +21,4 @@ AnimalDomestico animal = new Cachorro("Kako");
 ```
 ### Também Funciona
 ```C#
-Animal animal = new Lobo("Kako");Diferente do exemplo tanto o lobo, cachorro ou gato são animais 
+Animal animal = new Lobo("Kako");//Diferente do exemplo tanto o lobo, cachorro ou gato são animais 
