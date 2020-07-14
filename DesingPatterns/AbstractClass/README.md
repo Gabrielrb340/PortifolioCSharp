@@ -4,11 +4,11 @@ Demostra o uso de classes abstratas e suas implementações em um cenario onde e
 1. Exemplo 1
 
 ### Funciona
-´´´
+```C#
 AnimalDomestico animal = new Gato("Anakin")
 AnimalDomestico animal = new Cachorro("Kako")
 
-´´´
+```
 ### Não Funciona
 ...
 AnimalDomestico animal = new Lobo("Kako")
