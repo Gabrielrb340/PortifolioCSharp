@@ -10,5 +10,5 @@ AnimalDomestico animal = new Cachorro("Kako");
 ```
 ### Não Funciona
 ```C#
-AnimalDomestico animal = new Lobo("Kako")
+AnimalDomestico animal = new Lobo("Kako"); lobo não herda da classe AnimalDomestico sim da classe AnimalSelvagem
 ```
