@@ -34,5 +34,5 @@ Quando utilizamos diretamente a interface para instanciar uma classe apenas pode
             animalComportamentoPadrao = new Gato("Apolo");
             animalComportamentoPadrao.Brincar();
 ```
-Mesmo sendo uma instancia de gato ou cachorro que existem diversos outros metodos apenas podemos utilizar os metodos definidos na interface ``` IComportamentoPadrao ```
+Mesmo sendo uma instancia de ```Gato``` ou ```Cachorro``` que existem diversos outros metodos apenas podemos utilizar os metodos definidos na interface ``` IComportamentoPadrao ``` pois ela foi o tipo definido.
 
