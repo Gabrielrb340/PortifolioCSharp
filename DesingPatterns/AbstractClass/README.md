@@ -24,7 +24,8 @@ Animal animal = new Cachorro("Kako");
 Animal animal = new Lobo("Kako");//Diferente do exemplo 1 tanto o lobo, cachorro ou gato são animais 
 ``` 
 # Interfaces
-Utilizando metodos implementados pela classe via interface
+Utilizando metodos implementados pela classe via interface.
+Quando utilizamos diretamente a interface para instanciar uma classe apenas podemos utilizar apenas os metodos que este contrato (interface) implementa
 ## Exemplo 1
 ```C#
             IComportamentoPadrao animalComportamentoPadrao = new Cachorro("Nina");
@@ -33,4 +34,5 @@ Utilizando metodos implementados pela classe via interface
             animalComportamentoPadrao = new Gato("Apolo");
             animalComportamentoPadrao.Brincar();
 ```
+Mesmo sendo uma instancia de gato ou cachorro que existem diversos outros metodos apenas podemos utilizar os metodos definidos na interface ``` IComportamentoPadrao ```
 
