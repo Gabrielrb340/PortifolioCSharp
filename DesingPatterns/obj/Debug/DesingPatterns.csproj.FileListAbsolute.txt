@@ -1,0 +1,6 @@
+C:\Users\Administrador\Documents\Projetos\Dotnet\Estudos\Padrões de Projeto\DesingPatterns\DesingPatterns\bin\Debug\DesingPatterns.dll
+C:\Users\Administrador\Documents\Projetos\Dotnet\Estudos\Padrões de Projeto\DesingPatterns\DesingPatterns\bin\Debug\DesingPatterns.pdb
+C:\Users\Administrador\Documents\Projetos\Dotnet\Estudos\Padrões de Projeto\DesingPatterns\DesingPatterns\obj\Debug\DesingPatterns.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Projetos\Dotnet\Estudos\Padrões de Projeto\DesingPatterns\DesingPatterns\obj\Debug\DesingPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Projetos\Dotnet\Estudos\Padrões de Projeto\DesingPatterns\DesingPatterns\obj\Debug\DesingPatterns.dll
+C:\Users\Administrador\Documents\Projetos\Dotnet\Estudos\Padrões de Projeto\DesingPatterns\DesingPatterns\obj\Debug\DesingPatterns.pdb
