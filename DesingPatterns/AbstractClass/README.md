@@ -10,8 +10,9 @@ AnimalDomestico animal = new Cachorro("Kako");
 ```
 ### Não funciona
 ```C#
-AnimalDomestico animal = new Lobo("Kako");// lobo não herda da classe AnimalDomestico sim da classe AnimalSelvagem
+AnimalDomestico animal = new Lobo("Kako");
 ```
+ Lobo não herda da classe ```AnimalDomestico``` sim da classe ```AnimalSelvagem``` 
 ## Exemplo 2
 Usando a abstração mais generica possivel , porem desta forma perco acesso aos metodos mais especificos
 ### Funciona
